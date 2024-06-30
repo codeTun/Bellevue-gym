@@ -1,0 +1,28 @@
+{
+  "carouselItems": [
+    {
+      "imageSrc": "./img/gym.png",
+      "altText": "News Image",
+      "width": 1200,
+      "height": 675,
+      "title": "Breaking News: Earthquake Hits California",
+      "description": "A powerful earthquake has struck the California coast, causing widespread damage and power outages."
+    },
+    {
+      "imageSrc": "/placeholder.svg",
+      "altText": "News Image",
+      "width": 1200,
+      "height": 675,
+      "title": "Tech Giant Announces Major Acquisition",
+      "description": "The tech industry is abuzz with news of a major acquisition that could reshape the market."
+    },
+    {
+      "imageSrc": "/placeholder.svg",
+      "altText": "News Image",
+      "width": 1200,
+      "height": 675,
+      "title": "Sports Team Wins Championship in Dramatic Fashion",
+      "description": "The city is celebrating after their beloved sports team clinched the championship in a thrilling game."
+    }
+  ]
+}
