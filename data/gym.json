@@ -1,0 +1,28 @@
+{
+  "gymItems": [
+    {
+      "imageSrc": "./img/gym.png",
+      "altText": "News Image",
+
+      "title": "New title"
+    },
+    {
+      "imageSrc": "./img/gym.png",
+      "altText": "News Image",
+
+      "title": "Breaking News: Earthquake Hits California"
+    },
+    {
+      "imageSrc": "./img/gym.png",
+      "altText": "News Image",
+
+      "title": "Breaking News: Earthquake Hits California"
+    },
+    {
+      "imageSrc": "./img/gym.png",
+      "altText": "News Image",
+
+      "title": "Breaking News: Earthquake Hits California"
+    }
+  ]
+}
